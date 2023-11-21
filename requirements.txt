@@ -1,0 +1,4 @@
+ipywidgets
+IPython
+numpy
+Pillow
